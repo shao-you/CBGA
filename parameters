@@ -1,0 +1,19 @@
+Crossover:
+1 CSEX
+2 CX
+3 MSCX
+4 SCX
+5 simple
+6 AFDX
+
+Mutation:
+1 _2_Opt
+2 Best_2_Opt
+3 IOpt
+4 EM
+
+Initial Generation of Population: 
+1 CGA
+2 random_initial
+3 balance_SD
+4 balance_SD_2
